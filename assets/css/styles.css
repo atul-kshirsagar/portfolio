@@ -502,6 +502,15 @@ img {
   background-color: #333;
 }
 
+.project__image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
 /* ===== WORK =====*/
 .work__container {
   row-gap: 2rem;
